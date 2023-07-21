@@ -3,7 +3,11 @@ body{
 }
 h1{
     margin: 60px;
-    font-size: 4rem;
+    /* font-size: 4rem; */
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color:rgb(32, 4, 154);
 }
 .container{
   text-align: center;
@@ -12,5 +16,8 @@ h1{
 .player{
     display: inline-block;
     margin: 50px;
+    font-family: 'Lobster', cursive;
     font-size: 2rem;
+    color:rgb(32, 4, 154);
+    text-shadow: 2px 1px #232931;
 }
